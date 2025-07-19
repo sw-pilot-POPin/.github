@@ -1,14 +1,20 @@
 ### 팝업 정보 제공 서비스 POPin
 
 <div align="center">
+  <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/>
+</div>
+
+<div align="center">
   <h1>POPin은 팝업 정보를 제공하는 서비스입니다.</h1>
 </div>
 
-<br/>
 
 <div align="center">
-  <img src="./assets/Main.png" alt="Main" style="border-radius: 10px;"/>
+  <a href="">서비스 링크</a>
+    |  
+  <a href="">Swagger</a>
 </div>
+
 
 <br/>
 
@@ -19,14 +25,6 @@
 ## 프로젝트 개요
 
 <br/>
-
-<div align="center">
-  <a href="">서비스 링크</a>
-    |  
-  <a href="">Swagger</a>
-</div>
-
----
 
 ## 🧑‍💻 팀원 소개
 
@@ -65,8 +63,3 @@
 ## 커밋, pr 컨벤션
 
 <br/>
-
-## 프로젝트 개요
-
-<br/>
-
