@@ -30,7 +30,7 @@
 
 | <img src="https://github.com/minzzn.png" width="120"/> | <img src="https://github.com/go-minjung.png" width="120"/> | <img src="https://github.com/Hlxecz.png" width="120"/> | <img src="https://github.com/bomin34.png" width="120"/> |
 |:---:|:---:|:---:|:---:|
-| **김민주**  ([minzzn](https://github.com/minzzn)) | **배민중([go-minjung](https://github.com/go-minjung))** | **장형준([Hlxecz](https://github.com/Hlxecz))** | **김보민([bomin34](https://github.com/bomin34))** |
+| **김민주<br>([minzzn](https://github.com/minzzn))** | **배민중<br>([go-minjung](https://github.com/go-minjung))** | **장형준<br>([Hlxecz](https://github.com/Hlxecz))** | **김보민<br>([bomin34](https://github.com/bomin34))** |
 | Frontend | Frontend | Backend | Backend |
 
 <br/>
