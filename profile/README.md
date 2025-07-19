@@ -12,6 +12,14 @@
 
 <br/>
 
+## 프로젝트 사용법
+
+<br/>
+
+## 프로젝트 개요
+
+<br/>
+
 <div align="center">
   <a href="">서비스 링크</a>
     |  
@@ -28,4 +36,37 @@
 | Frontend | Frontend | Backend | Backend |
 | [minzzn](https://github.com/minzzn) | [go-minjung](https://github.com/go-minjung) | [Hlxecz](https://github.com/Hlxecz) | [bomin34](https://github.com/bomin34) |
 
+<br/>
+
+## 프로젝트 개요
+
+<br/>
+
+## 주요 기능
+
+<br/>
+
+## 작업 및 역할 분담
+
+<br/>
+
+## 기술 스택
+
+<br/>
+
+## 프로젝트 구조
+
+<br/>
+
+## 개발 워크플로우
+
+<br/>
+
+## 커밋, pr 컨벤션
+
+<br/>
+
+## 프로젝트 개요
+
+<br/>
 
